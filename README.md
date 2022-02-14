@@ -9,5 +9,5 @@ Opciones:
   -t, --tabla         Es la tabla de multiplicar.           [número] [requerido]
   -l, --listar        Muestra la tabla en consola.   [booleano] [defecto: false]
       --li, --limite  Número limite para multiplicar                    [número]
-      ```
+     
 ````
